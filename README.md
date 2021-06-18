@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @prateek-ui
+- 🌱 I’m currently learning programming and dsa
+- 📫 How to reach me mail- prateekvalechha75@gmail.com
